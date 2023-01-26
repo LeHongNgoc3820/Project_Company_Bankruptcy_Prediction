@@ -1,5 +1,5 @@
 **Project_Company_Bankruptcy_Prediction**
-# Application of machine learning models to predict company bankruptcy
+# Application of Machine Learning models to predict Company Bankruptcy
 [**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/Project_Company_Bankruptcy_Prediction/blob/main/Company_Bankruptcy_Prediction.ipynb)
 
 **Dưới đây là nội dung tóm tắt**
