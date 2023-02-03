@@ -1,4 +1,4 @@
-# Application of Machine Learning models to predict Company Bankruptcy
+# Application of Machine Learning models to predict Company Bankruptcy (auc = 97.21%)
 ______
 **Detail:** [Here](https://github.com/LeHongNgoc3820/Project_Company_Bankruptcy_Prediction/blob/main/Company_Bankruptcy_Prediction.ipynb)
 
