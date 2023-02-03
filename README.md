@@ -5,8 +5,8 @@ ______
 **Conclusions:**
 
 + The topic uses Machine Learning models to come up with the best model to predict Company Bankruptcy.
-+ The best model given is **Logistic Regression Model**. Although ANN has very high accuracy (auc = 92.7%). However, the ANN model is in more implementation and running time, so Logistic Regression is the most optimal choice proposed.
-+ Accuracy of model is **92.7%**.
++ The best model given is **Logistic Regression Model**.
++ Accuracy of model is **97.21%**.
 + **Top 10 Features** that have a big impact on Bankruptcy include:
     + Continuous interest rate (after tax),
     + Persistent EPS in the Last Four Seasons
